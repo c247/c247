@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @c247
-- 👀 I’m interested in machine learning and clean tech
-- 🌱 I’m currently learning Tensorflow and Golang
-- 💞️ I’m looking to collaborate on ml projects
+- 👀 I’m interested in API development
+- 🌱 I’m currently learning Vapor 5, Fluent and Postgres
 - 📫 How to reach me v2ananth@uwaterloo.ca
 
 <!---
