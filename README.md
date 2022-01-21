@@ -2,7 +2,6 @@
 - 👀 I’m interested in API development
 - 🌱 I’m currently learning Vapor 5, Fluent and Postgres
 - 📫 How to reach me v2ananth@uwaterloo.ca
-- Personal Website: https://trusting-bhaskara-a50c44.netlify.app/
 
 <!---
 c247/c247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
