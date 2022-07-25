@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c247
 - 👀 I’m interested in API development
-- 🌱 I’m currently learning Vapor 5, Fluent and Postgres
+- 🌱 I’m currently learning GoLang and gRPC
 - 📫 How to reach me v2ananth@uwaterloo.ca
 - :star2: Fun Fact: I play the drums and used to play competitive soccer
 
