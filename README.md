@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c247
 - 👀 I’m interested in learning blockchain next.
-- 🌱 I’m currently learning Rust, Scala, GoLang and gRPC
+- 🌱 I’m currently learning Rust, Scala
 - 📫 How to reach me v2ananth@uwaterloo.ca
 - :star2: Fun Fact: I play the drums and play competitive soccer
 
