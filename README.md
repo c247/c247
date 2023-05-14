@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c247
+- 👋 Hi, I’m Vijay
 - 👀 I’m interested in backend development!
 - 🌱 I’m currently learning Blockchain Technologies
 - 📫 How to reach me v2ananth@uwaterloo.ca
