@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay
 - 👀 I’m interested in backend development!
-- 🌱 I’m currently learning Blockchain Technologies
+- 🌱 I’m currently learning Scala, Rust and Blockchain Development!
 - 📫 How to reach me v2ananth@uwaterloo.ca
 - :star2: Fun Fact: I play the drums and play competitive soccer
 
