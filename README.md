@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vijay
+- 👋 Hi, I’m Vijay Ananth
 - 👀 I’m interested in backend development!
 - 🌱 I’m currently checking out Scala, Rust and Blockchain Development!
 - 📫 How to reach me v2ananth@uwaterloo.ca or linkedin: https://www.linkedin.com/in/ananth-vijay/
