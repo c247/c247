@@ -4,6 +4,11 @@
 - 📫 How to reach me email: v2ananth@uwaterloo.ca or linkedin: https://www.linkedin.com/in/ananth-vijay/
 - :star2: Fun Fact: I play the mridangam (Indian classical music drums)
 
+### Hackathons
+- OlympiHacks 2023 Winner (https://github.com/c247/Nearly-Intergalactic-Axelar)
+- Ethereum Global Waterloo 2023 Winner (https://github.com/c247/WealthSimpler)
+
+
 <!---
 c247/c247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
