@@ -6,7 +6,7 @@
 
 Recent Projects:
 - Kademlia Distributed Hash Table using Scala: https://github.com/c247/kademlia-dht
-- MedicalAI Pneumonia Detection ML AWS Sagemaker: https://github.com/c247/bill.y-BE
+- MedicalAI Pneumonia Detection ML AWS Sagemaker: https://github.com/c247/DetectAIBE
 
 Hackathons
 - OlympiHacks 2023 Winner (https://github.com/c247/Nearly-Intergalactic-Axelar)
