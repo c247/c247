@@ -4,6 +4,10 @@
 - 📫 How to reach me email: v2ananth@uwaterloo.ca or linkedin: https://www.linkedin.com/in/ananth-vijay/
 - :star2: Fun Fact: I play the mridangam (Indian classical music drums)
 
+Recent Projects:
+- Kademlia Distributed Hash Table using Scala: https://github.com/c247/kademlia-dht
+- MedicalAI Pneumonia Detection ML AWS Sagemaker: https://github.com/c247/bill.y-BE
+
 Hackathons
 - OlympiHacks 2023 Winner (https://github.com/c247/Nearly-Intergalactic-Axelar)
 - Ethereum Global Waterloo 2023 Winner (https://github.com/c247/WealthSimpler)
