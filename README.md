@@ -5,7 +5,6 @@
 - :star2: Fun Fact: I play the mridangam (Indian classical music drums)
 
 Recent Projects:
-- Kademlia Distributed Hash Table using Scala: https://github.com/c247/kademlia-dht
 - MedicalAI Pneumonia Detection ML AWS Sagemaker: https://github.com/c247/DetectAIBE
 
 Hackathons
