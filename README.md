@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijay Ananth
 - 👀 I’m a software engineer - love to learn new technologies!
 - 🌱 I’m currently checking out Scala and concurrency in Go!
-- 📫 How to reach me email: v2ananth@uwaterloo.ca, linkedin: https://www.linkedin.com/in/ananth-vijay/, devpost: https://devpost.com/ananth-vijay?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+- 📫 How to reach me email: v2ananth@uwaterloo.ca, linkedin: https://www.linkedin.com/in/ananth-vijay/, devpost: https://devpost.com/ananth-vijay
 - :star2: Fun Fact: I play the mridangam (Indian classical music drums)
 
 Recent Projects:
